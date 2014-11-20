@@ -13,4 +13,4 @@ I'm around. Depending on your interests and agenda, you can find me at:
 * [RunKeeper](http://runkeeper.com/user/daynemay)
 * [JeFit](http://www.jefit.com/376198)
 
-And honestly, most other places that have a user called "daynemay"
+And honestly, most other places that have a user called "daynemay".
