@@ -11,5 +11,4 @@ github_username:  daynemay
 # Build settings
 markdown: kramdown
 
-gems:
-  - jekyll-feed
+
