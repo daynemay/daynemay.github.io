@@ -1,0 +1,21 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    hyde (0.0.4)
+    kramdown (1.12.0)
+    leonids (0.1.1)
+    minima (1.0.1)
+    rouge (2.0.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  hyde (~> 0.0.4)
+  kramdown
+  leonids (~> 0.1.1)
+  minima
+  rouge
+
+BUNDLED WITH
+   1.12.5
